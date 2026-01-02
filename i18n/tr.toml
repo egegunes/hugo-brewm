@@ -1,0 +1,253 @@
+# Please feel free to contribute to additional translation.
+# Copy this file and rename it to your language code.
+# Then translate the values.
+[404PageNotFound]
+    other = "Sayfa bulunamadı."
+[404Alert]
+    other = "This page intentionally redirect"
+[404ReturnHome]
+    other = "Anasayfaya geri dön."
+[accessibility]
+    other = "Erişilebilirlik"
+[accessTime]
+    other = "This page is accessed on"
+[allPosts]
+    other = "Tüm gönderiler"
+[appearance]
+    other = "Görünüm"
+[articles]
+    one = "Makale"
+    other = "Makaleler"
+[audio]
+    other = "Ses"
+[author]
+    one = "Yazar"
+    other = "Yazarlar"
+[back]
+    other = "Geri dön"
+[baselineStretch]
+    other = "Baseline Stretch"
+[bionRead]
+    other = "BionRead Modu"
+[breadcrumb]
+    other = "Breadcrumb"
+[buildTime]
+    other = "This page is built on"
+[bypass]
+    other = "Baypas"
+[categories]
+    one = "Kategori"
+    other = "Kategoriler"
+[close]
+    other = "Kapat"
+[coffeeStat]
+    other = "Kahve istatistiği"
+[coffeeCount]
+    other = "❤️  ile ve "
+[coffeeCountPost]
+    other = ", if not more."
+[colophon]
+    other = "Colophon"
+[colorPalette]
+    other = "Color Palette"
+[colorSettings]
+    other = "Color Settings"
+[comments]
+    other = "Discussion"
+[contrast]
+    other = "Contrast"
+[contrib]
+    other = "Contribute"
+[contribAskReader]
+    other = "Enjoy this article?"
+[contribAskReaderResponse]
+    other = "Awesome!"
+[contribAskReaderToContribute]
+    one = "You can also support me by making the following contributions:"
+    other = "You can also support us by making the following contributions:"
+[contribCoffeeStat]
+    other = "Did you know that"
+[contribCoffeeStatPost]
+    one =  "helped me write this article?"
+    other = "helped us write this article?"
+[copy]
+    other = "Copy URL"
+[copying]
+    other = "Copying..."
+[ctaComments]
+    other = "Join Discussion"
+[cup]
+    one = "bardak kahve ile"
+    other = "bardak kahve ile"
+[currentLang]
+    other = "Şu anki dil"
+[dark]
+    other = "Karanlık"
+[darkMode]
+    other = "Karanlık Mod"
+[defaultColor]
+    other = "Varsayılan"
+[defaultContrast]
+    other = "Varsayılan"
+[deuteranopia]
+    other = "Deuteranopia"
+[discover]
+    other = "Keşfet"
+[editedBy]
+    other = "Edited By"
+[email]
+    other = "Eposta"
+[featuredImg]
+    other = "Featured image"
+[fediverseBluesky]
+    other = "Bluesky ile yanıtla"
+[fediverseErr]
+    other = "Yorumları yüklerken hata oluştu."
+[fediverseIsLoading]
+    other = "Yorumlar Fediverse'ten yükleniyor"
+[fediverseReplies]
+    one = "Yanıt"
+    other = "Yanıtlar"
+[fediverseReblogs]
+    one = "Reblog"
+    other = "Rebloglar"
+[fediverseFavourites]
+    one = "Favori"
+    other = "Favoriler"
+[focusMode]
+    other = "Odak Modu"
+[followRSS]
+    other = "RSS ile takip et"
+[fontSize]
+    other = "Font Boyutu"
+[home]
+    other = "Anasayfa"
+[ifNoAudioSupport]
+    other = "Tarayıcın audio elementini desteklemiyor."
+[in]
+    other = "in"
+[inNewTab]
+    other = "yeni sekmede"
+[keepInTouch]
+    other = "Let's keep in touch!"
+[lessContrast]
+    other = "Düşüş"
+[light]
+    other = "Aydınlık"
+[main]
+    other = "Ana Menü"
+[marginpar]
+    other = "Ek Notlar"
+[menuControls]
+    other = "Erişilebilirlik Menüsü Kontrolleri"
+[modified]
+    other = "Düzenlendi"
+[monochrome]
+    other = "Monokrom"
+[more]
+    other = "Daha Fazla Menü"
+[moreContrast]
+    other = "Yüksek"
+[nav]
+    other = "Navigasyon"
+[networkGraph]
+    other = "İçerik Ağı Grafiği"
+[next]
+    other = "Sonraki"
+[noArticle]
+    other = "Gösterilecek makale bulunmuyor."
+[noArticlePost]
+    other = "Yazarımızın kahvesi bitmiş gibi görünüyor... Sakin ol, hemen demliyoruz!"
+[noComment]
+    other = "Gösterilecek yorum bulunmuyor."
+[noGiscus]
+    other = "Giscus'u kullanmak için, Javascript ve LocalStorage aktif olmalı ."
+[noScript]
+    other = "Olamaz... Javascript devredışı!"
+[noLocalStorage]
+    other = "Tarayıcında LocalStorage aktif değil. Ayarlar kaydedilmeyecek."
+[note]
+    other = "Not"
+[on]
+    other = "Açık"
+[OpenDyslexic]
+    other = "OpenDyslexic Font Kullan"
+[optimizeSR]
+    other = "Ekran Okuyucu Optimizasyonu"
+[optimizeSRDesc]
+    other = "Optimize display and resources for screen reader users who navigate with a pointer device."
+[pages]
+    one = "Sayfa"
+    other = "Sayfalar"
+[pagination]
+    other = "Sayfalandırma"
+[posts]
+    one = "Gönderi"
+    other = "Gönderiler"
+[postsBy]
+    other = "Post by"
+[postsOn]
+    other = "Posts on"
+[poweredBy]
+    other = "Powered by"
+[prev]
+    other = "Önceki"
+[print]
+    other = "Yazdır"
+[protanopia]
+    other = "Protanopia"
+[published]
+    other = "Yayınlandı"
+[readingTime]
+    other = "dk okuma süresi"
+[recent]
+    other = "Son Gönderiler"
+[redactionHistory]
+    other = "Geçmiş"
+[redactionNotes]
+    other = "Some information might changes over time, we keep redaction up to date."
+[related]
+    other = "Şunları da beğenebilirsin"
+[reset]
+    other = "Reset"
+[reviewedBy]
+    other = "Reviewed By"
+[save]
+    other = "Kaydet"
+[search]
+    other = "Ara"
+[seeAll]
+    other = "Tümünü gör"
+[seeMore]
+    other = "Explore more topics"
+[section]
+    other = "Bölüm"
+[selectLang]
+    other = "Dil bölümleri"
+[series]
+    other = "Series"
+[share]
+    other = "Paylaş"
+[shareOn]
+    other = "Share on"
+[slide]
+    one = "slide"
+    other = "slides"
+[stage]
+    one = "Aşama"
+    other = "Aşamalar"
+[switchLangTo]
+    other = "Dili değiştir"
+[TableOfContents]
+    other = "İçindekiler"
+[tags]
+    one = "Etiket"
+    other = "Etiketler"
+[toContent]
+    other = "İçeriğe git"
+[toTop]
+    other = "En üste git"
+[top-nav]
+    other = "Üst"
+[tritanopia]
+    other = "Tritanopia"
