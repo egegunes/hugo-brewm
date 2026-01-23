@@ -31,6 +31,10 @@
             {{ partial "menu.html" (dict "menuID" "main" "open" "open" "page" .) }}
             {{ if site.Params.search.enable }}{{ partialCached "search.html" . }}{{ end }}
             {{ partial "menu.html" (dict "menuID" "more" "page" .) }}
+            <div id="header-color-scheme">
+                <input id="headerLightSwitch" type="checkbox" onclick="toggleHeaderLightSwitch()">
+                <label for="headerLightSwitch" aria-label="{{ i18n "darkMode" }}"></label>
+            </div>
             {{ partialCached "i18n.html" . }}
         </nav>
         <div id="top-nav-screen" class="screening js-cpn" role="presentation" aria-hidden="true"></div>

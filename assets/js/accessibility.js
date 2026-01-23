@@ -176,6 +176,18 @@ function useSreenReader() {
     }
 };
 
+// Header light switch toggle (syncs with main lightSwitch)
+const headerLightSwitch = getElement('headerLightSwitch');
+function toggleHeaderLightSwitch() {
+    lightSwitch.checked = headerLightSwitch.checked;
+    setColor();
+}
+function syncHeaderLightSwitch() {
+    if (headerLightSwitch) {
+        headerLightSwitch.checked = lightSwitch.checked;
+    }
+}
+
 // Color scheme and contrast functions
 const matchMediaColor = () => {
     if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
@@ -189,6 +201,7 @@ const matchMediaColor = () => {
     } else {
         defaultContrast.checked = true;
     }
+    syncHeaderLightSwitch();
 };
 
 function setColor() {
@@ -219,6 +232,7 @@ function setColor() {
     elements.forEach(element => {
         moreContrast.checked ? element.classList.add('has-border') : element.classList.remove('has-border');
     });
+    syncHeaderLightSwitch();
 };
 
 // Flash guard
